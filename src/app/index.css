@@ -1,0 +1,61 @@
+body {
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 1000px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.main {
+  width: 480px;
+  height: 655px;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 28px;
+}
+.box {
+  display: flex;
+  flex-direction: column;
+}
+.logo {
+  width: 60px;
+  height: 60px;
+}
+.emoji {
+  width: 24px;
+  height: 24px;
+}
+.small {
+  display: flex;
+  flex-direction: column;
+}
+.first {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.prace {
+  width: 416px;
+  height: 44px;
+  border: solid grey;
+}
+.button1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.button {
+  width: 416px;
+  height: 44px;
+  background-color: black;
+  color: white;
+}
