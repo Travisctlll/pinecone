@@ -72,7 +72,7 @@ export default function Home() {
     <div className="container">
       <div className="main">
         <div className="box">
-          <img className="logo" src="Mylog.svg" />
+          <img className="logo" src="Main 1.png" />
 
           <div className="small">
             <h1 className="text text-[24px]">Join Us! 😎</h1>
