@@ -58,12 +58,11 @@ body {
   height: 44px;
   background-color: black;
   color: white;
-  border-radius: 10px;
 }
 
 .input-style {
   border: 1px solid grey;
-  width: 416px;
+  width: 216px;
   height: 44px;
 }
 
